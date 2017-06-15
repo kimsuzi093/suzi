@@ -7,7 +7,17 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 	<h1>Master</h1>
 	<h2>sub_3</h2>
+
+	<ul>
+		<li>sub1</li>
+	</ul>
+	
+	<div>
+		<a href="">go</a>
+	</div>
+
 </body>
 </html>
